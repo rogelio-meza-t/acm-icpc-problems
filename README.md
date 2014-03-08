@@ -1,5 +1,5 @@
 #acm-icpc-problems
-
+You can see solved problem list in [this wiki page](Solved-problems).
 Solutions to ACM-ICPC problems in several programming languajes. Available languages are:
 * Java
 * C++
