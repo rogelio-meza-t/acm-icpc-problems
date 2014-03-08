@@ -36,10 +36,3 @@ Provide more sample inputs and outputs sending a pull request.
 3. Commit your changes: `git commit -am 'some message'`
 4. Push to the branch: `git push origin new_problem`
 5. Submit a pull request.
-
-
-##Available Problems
-
-| Problem                  | Java  | C++   | C     | Python| PHP   | Ruby  | Javscript|
-|:-------------------------|:------|:----- |:------|:------|:------|:------|:---------|
-| 4806 - Bingo!            |       |       |       |  OK   |       |       |          |
