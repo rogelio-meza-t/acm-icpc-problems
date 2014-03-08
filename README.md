@@ -1,5 +1,5 @@
 #acm-icpc-problems
-You can see the solved problem list in [this wiki page](wiki/Solved-problems).
+You can see the solved problem list in [this wiki page](../../wiki/Solved-problems).
 
 Compare difference among programming languages, review algorithms and code or simply use this repo for learn language features.
 Available languages are:
